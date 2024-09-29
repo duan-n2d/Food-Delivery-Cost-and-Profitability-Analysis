@@ -37,6 +37,9 @@ Food-Delivery-Cost-and-Profitability-Analysis/
    jupyter notebook eda.ipynb
    ```
 
+## Dataset
+[Case study: Optimizing Cost and Profitability from STATSO](https://statso.io/optimizing-cost-and-profitability-case-study/#google_vignette)
+
 ## Analysis and Findings
 
 - **Discount Impact**: The analysis shows that higher discounts often result in loss-making orders, while profitable orders tend to have lower discount rates.
