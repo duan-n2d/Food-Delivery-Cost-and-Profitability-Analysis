@@ -28,7 +28,7 @@ Food-Delivery-Cost-and-Profitability-Analysis/
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/Food-Delivery-Cost-and-Profitability-Analysis.git](https://github.com/duan-n2d/Food-Delivery-Cost-and-Profitability-Analysis.git)
+   git clone https://github.com/yourusername/Food-Delivery-Cost-and-Profitability-Analysis.git
    ```
 
 2. **Run the Jupyter notebook:**
@@ -44,7 +44,7 @@ Food-Delivery-Cost-and-Profitability-Analysis/
 
 ## Results
 
-![recap](recap.png)
+![recap](Recap.png)
 
 ## License
 
