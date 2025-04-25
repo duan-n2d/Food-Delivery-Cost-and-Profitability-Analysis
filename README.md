@@ -3,6 +3,9 @@
 
 This project focuses on analyzing the cost and profitability of food delivery orders. The key aim is to explore patterns related to discounts, delivery costs, and profitability using the provided dataset, especially in terms of identifying profitable and loss-making orders. The project uses various data analysis techniques to gain insights and provide recommendations based on the findings.
 
+## Screenshots
+![Food Deli Dashboard](dashboard_screenshot.png)
+
 ### Key Features of the Analysis:
 - **Cost & Profitability Analysis**: Analysis of orders classified as profit or loss based on various factors such as discounts, cost of delivery, and delivery times.
 - **Exploratory Data Analysis (EDA)**: Visualizations like boxplots and descriptive statistics are employed to understand trends in order costs, discounts, and profitability.
